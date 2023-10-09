@@ -4,7 +4,7 @@ Projeto coordenado pelos professores: [Marco André Mendes](github.com/marcoandr
 Links do projeto:
 
 -   [Documentação (esse documento)](https://github.com/WedleySilva/espaco-innovar/tree/main/docs)
--   [Backend](https://github.com/WedleySilva/bakend-innovar)
+-   [Backend](https://github.com/WedleySilva/backend-innovar)
 -   [Frontend](https://github.com/WedleySilva/frontend-innovar-react-native)
 
 # Sumário
